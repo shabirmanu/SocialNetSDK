@@ -1,0 +1,20 @@
+{
+    "name": "shabirmanu/social-net-s-sdk",
+    "description": "This small package acts a wrapper library for facebook, twitter communication with Laravel.",
+    "require": {
+        "facebook/php-sdk-v4": "^5.2"
+    },
+
+    "autoload": {
+        "psr-4": {
+            "Shabirmanu\\SocialNet\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Shabir A.",
+            "email": "engr.shabir@yahoo.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
