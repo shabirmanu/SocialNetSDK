@@ -5,8 +5,7 @@
  * Date: 6/10/16
  * Time: 10:45 PM
  */
-
-namespace ShabirmanuSocialNetSDK;
+namespace Shabirmanu\SocialNet;
 
 
 use App\Http\Controllers\Controller;
